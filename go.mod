@@ -1,4 +1,4 @@
-module terminator
+module github.com/spacecafe/terminator
 
 go 1.20
 
